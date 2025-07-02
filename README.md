@@ -1,4 +1,4 @@
-# # Netflix Clone
+# (Netflix-inspired-ui)
 
 This project is created by **Archana Lohana** for educational and personal learning purposes only.
 
