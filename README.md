@@ -1,4 +1,4 @@
-# (Netflix-inspired-ui)
+# (Netflix-Inspired-UI)
 
 This project is created by **Archana Lohana** for educational and personal learning purposes only.
 
