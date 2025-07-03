@@ -75,7 +75,7 @@ This project focused on replicating:
 
 1. Clone this repository:
 ```bash
-Clone the repository git clone https://github.com/Archana-Lohana/PROJECT-2nd.git
+git clone https://github.com/Archana-Lohana/PROJECT-2nd.git
 
 Open the index.html file in your browser
 
