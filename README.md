@@ -73,10 +73,8 @@ This project focused on replicating:
 
 ## 🚀 How to Run Locally
 
-1. Clone this repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/Archana-Lohana/PROJECT-2nd.git
-
-Open the index.html file in your browser
 
 
