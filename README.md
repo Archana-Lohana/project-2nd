@@ -1,4 +1,7 @@
 # 🎬 Netflix-Inspired Web UI  
+
+**Live Demo:** [View the Dashboard](https://archana-lohana.github.io/project-2nd/)
+
 *A fully responsive front-end layout built for educational and design practice.*
 
 ## 📢 Disclaimer
