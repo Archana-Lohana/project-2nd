@@ -1,33 +1,33 @@
-# 🎬 Netflix-Inspired Web UI  
+#  Netflix-Inspired Web UI  
 
 **Live Demo:** [View the Dashboard](https://archana-lohana.github.io/project-2nd/)
 
 *A fully responsive front-end layout built for educational and design practice.*
 
-## 📢 Disclaimer
+## Disclaimer
 
 This Netflix-inspired project is a personal front-end exercise created by **Archana Lohana** for non-commercial, educational purposes only.  
 It is **not affiliated with, endorsed by, or connected to Netflix, Inc.** in any form.
 
-All trademarks, logos, images, and content belong to their respective owners and are used here only for design reference.
+->All trademarks, logos, images, and content belong to their respective owners and are used here only for design reference.
 
-📌 This UI clone was built to understand layout composition, design consistency, and responsive styling based on real-world web platforms.
+->This UI clone was built to understand layout composition, design consistency, and responsive styling based on real-world web platforms.
 
-⚠️ No copyrighted media (like videos or real Netflix content) is included or redistributed in this project.
+->No copyrighted media (like videos or real Netflix content) is included or redistributed in this project.
 
-📩 If any content unintentionally violates usage rights, I will remove it immediately upon request.
+->If any content unintentionally violates usage rights, I will remove it immediately upon request.
 
-## 🌟 Project Overview
+##  Project Overview
 
 This is a front-end replica of Netflix's homepage built using **HTML5** and **CSS3** only — no frameworks, no JavaScript.  
 The goal was to understand how large-scale media platforms manage clean UI structure, dark themes, and interactive sections.
 
-## 🎯 Why I Built This
+##  Why I Built This
 
 I chose to replicate Netflix because of its modern layout, strong typography, and smooth user flow.  
 Creating a dark-theme UI from scratch helped me improve my CSS structuring and visual balance skills.
 
-## 🎨 Design Focus
+## Design Focus
 
 This project focused on replicating:
 - A modern, dark-theme layout with high contrast
@@ -35,7 +35,7 @@ This project focused on replicating:
 - Structured sections with spacing and alignment
 - Form design with visual hierarchy
 
-## 🔍 Key Features
+##  Key Features
 
 - Full-screen background hero section with text, form, and overlay
 - Netflix-style header with logo and sign-in button
@@ -45,7 +45,7 @@ This project focused on replicating:
 - Fully responsive design for mobile and desktop
 - Clean footer with grouped links
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Working with background overlays and full-screen layout
 - Using `flexbox` and `positioning` for header and content
@@ -53,7 +53,7 @@ This project focused on replicating:
 - Creating clean, readable HTML and CSS without frameworks
 - Mimicking real-world UI design in a self-contained project
 
-## 🔧 Future Improvements
+##  Future Improvements
 
 - Add interactivity using JavaScript (FAQ dropdown, form validation)
 - Include animation on scroll for better UX
@@ -61,20 +61,20 @@ This project focused on replicating:
 - Connect email form with a real back-end (Firebase or PHP)
 - Create light/dark toggle using CSS variables
 
-## 🧪 Tested On
+## Tested On
 
 - Google Chrome (Desktop)
 - Microsoft Edge (Desktop)
 - Responsive view in mobile simulation (Dev Tools)
 
-## 🛠️ Built With
+## Built With
 
 - HTML5  
 - CSS3  
 - Google Fonts  
 - Font Awesome (for icons)
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 bash
 
